@@ -9,3 +9,4 @@ For the analysis open the file
 ## How to use
 - Open the Undata_analytics.ipynb
 - data source http://data.un.org/Explorer.aspx?d=EDATA
+- read summary brief for stakeholders
